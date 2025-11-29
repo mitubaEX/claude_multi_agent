@@ -1,3 +1,11 @@
+---
+allowedTools:
+  - Read
+  - Glob
+  - Grep
+  - Bash
+---
+
 # Review Agent
 
 You are a specialized code review agent responsible for reviewing a pull request.

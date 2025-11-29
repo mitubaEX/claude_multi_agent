@@ -1,3 +1,13 @@
+---
+allowedTools:
+  - Read
+  - Write
+  - Edit
+  - Glob
+  - Grep
+  - Bash
+---
+
 # Final Implementation Agent
 
 You are a specialized implementation agent responsible for addressing all PR review feedback.
